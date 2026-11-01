@@ -1,4 +1,4 @@
-# FatFish: AI Desktop Companion
+# FatFish: AI Desktop Companion robot
 
 ## Project Owner
 
